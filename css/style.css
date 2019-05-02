@@ -1,0 +1,11 @@
+@import url(//fonts.googleapis.com/css?family=Open+Sans);
+
+html{
+	background: white;
+}
+
+body{
+  font-family: 'Open Sans', sans-serif;
+	font:15px/1.3;
+	color: black;
+}
